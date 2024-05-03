@@ -275,6 +275,18 @@ margin-bottom: 15px;
     text-align: justify;
 }
 
+.ingresar-contenido{
+    background-color: #414141;
+    color: azure;
+    
+    
+}
+.formulariofinal{
+    display: flexbox;
+    text-align: center;
+    font-size: 20px;
+} 
+
 /*footer*/
 
 footer{
@@ -324,7 +336,7 @@ footer{
     color: whitesmoke;
 
 }
-    
+  
 /*Cosa de javascript*/
 .body_move{
    margin-left: 250px; 
